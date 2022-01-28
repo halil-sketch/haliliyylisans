@@ -5,8 +5,8 @@ function DeleteAllResourceShiftDeletexD()
     end
 end
 iplist = {}
-dogruip = "213.226.119.4"
-dogruip2 = "213.226.119.4"
+dogruip = "213.226.119.4" --wild
+dogruip2 = "217.195.207.231" --moon
 dogruip3 = "213.226.119.4"
 dogruip4 = "213.226.119.4"
 kod = "hlylcnss"
