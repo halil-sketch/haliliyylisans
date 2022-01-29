@@ -10,7 +10,7 @@ dogruip2 = "217.195.207.231" --moon
 dogruip3 = "213.226.119.4"
 dogruip4 = "213.226.119.4"
 kod = "hlylcnss"
-paket = "Haliliyy"
+paket = "Wild Oyun ve Medya Hizmetleri"
 function Magic(res)
     name = getServerConfigSetting("servername")
     fetchRemote("https://api.my-ip.io/ip", function(ip)
