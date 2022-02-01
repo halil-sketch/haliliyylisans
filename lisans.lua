@@ -5,10 +5,10 @@ function DeleteAllResourceShiftDeletexD()
     end
 end
 iplist = {}
-dogruip = "213.226.119.4" --wild
+dogruip = "217.195.207.162" --wild
 dogruip2 = "217.195.207.231" --moon
-dogruip3 = "213.226.119.4"
-dogruip4 = "213.226.119.4"
+dogruip3 = "213.226.119.4" -- wild test
+dogruip4 = "217.195.207.165"-- unt
 kod = "hlylcnss"
 paket = "Wild Oyun ve Medya Hizmetleri"
 function Magic(res)
