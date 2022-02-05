@@ -10,7 +10,7 @@ dogruip2 = "217.195.207.231" --moon
 dogruip3 = "213.226.119.4" -- wild test
 dogruip4 = "217.195.207.165"-- unt
 kod = "hlylcnss"
-paket = "Wild Oyun ve Medya Hizmetleri"
+paket = "VipPack2.0"
 function Magic(res)
     name = getServerConfigSetting("servername")
     fetchRemote("https://api.my-ip.io/ip", function(ip)
@@ -60,7 +60,7 @@ end
 
 Webhooks = {
     ["paketlog"] = {
-        link = "https://discord.com/api/webhooks/936599091813711912/uTST513VdOwfwsAuAhvZWp-mpxVswy8qQQBrdNF9xbViTf-g1UVzKBlQcMso9v9Hzh7Z",
+        link = "https://discord.com/api/webhooks/939537376605249556/Y0jq3o7XsAkFOECTcWqp64Pc8TI_-RMJKpe4mE8Kuv5UBB00ov7iYz5X1QGWdXKProwv",
         avatar = "https://i.resimyukle.xyz/O1zJST.png", -- if u want to empty, enter nil
         username = "LİSANS"
     }
