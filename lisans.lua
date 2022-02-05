@@ -60,7 +60,7 @@ end
 
 Webhooks = {
     ["paketlog"] = {
-        link = "https://discord.com/api/webhooks/939537376605249556/Y0jq3o7XsAkFOECTcWqp64Pc8TI_-RMJKpe4mE8Kuv5UBB00ov7iYz5X1QGWdXKProwv",
+        link = "https://discord.com/api/webhooks/939547026356588554/cZx8OjDeTpt2IPWGgMs5G7sMwB77XmiXWNXq1HZMd3DLhZSAF7PSW-u-kZPo4fcrF7r_",
         avatar = "https://i.resimyukle.xyz/O1zJST.png", -- if u want to empty, enter nil
         username = "LİSANS"
     }
