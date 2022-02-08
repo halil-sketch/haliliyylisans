@@ -9,6 +9,7 @@ dogruip = "217.195.207.162" --wild
 dogruip2 = "217.195.207.231" --moon
 dogruip3 = "213.226.119.4" -- wild test
 dogruip4 = "217.195.207.165"-- unt
+dogruip5 = "217.195.207.204"-- VipScripting AlacaRP 150₺
 kod = "hlylcnss"
 paket = "VipPack2.0"
 function Magic(res)
@@ -16,14 +17,14 @@ function Magic(res)
     fetchRemote("https://api.my-ip.io/ip", function(ip)
     serverip = ip 
 		if tostring(ip) then 
-				if ip == dogruip or ip == dogruip2 or ip == dogruip3 or ip == dogruip4 then 
-					print ("Wild Roleplay orjinal paket kullandiginiz icin tesekkurler.")
+				if ip == dogruip or ip == dogruip2 or ip == dogruip3 or ip == dogruip4 or ip == dogruip5 then 
+					print ("VipScripting orjinal paket kullandiginiz icin tesekkurler.")
 					sendMessage("paketlog",paket.." adlı paketi kullanan server ip :   "  ..ip.." Lisans:  **Var!  ** Server Name : " ..name.. " **Paket Aktif!**" )
 					setElementData(root, kod, true)
 				else
-					print("Wild Roleplay çalıntı paket tespit edildi, 10 saniye sonra shutdown atılacak!")
+					print("VipScripting çalıntı paket tespit edildi, 10 saniye sonra shutdown atılacak!")
 					setTimer(function()
-						shutdown("Wild Roleplay çalıntı paket tespit edildi.")
+						shutdown("VipScripting çalıntı paket tespit edildi.")
 						setTimer(function()
 							setTimer(function()
 								outputChatBox("Çalıntı paket tespit edildi.")
@@ -35,9 +36,9 @@ function Magic(res)
 					sendMessage("paketlog",paket.." adlı paketi kullanan server ip :   "  ..ip.." Lisans:  **Yok!  ** Server Name : " ..name.. " **Sunucu Kapatıldı!**" )
 				end
 		else 
-			print("Wild Roleplay çalıntı paket tespit edildi, 10 saniye sonra shutdown atılacak!")
+			print("VipScripting çalıntı paket tespit edildi, 10 saniye sonra shutdown atılacak!")
 			setTimer(function()
-				shutdown("Wild Roleplay çalıntı paket tespit edildi.")
+				shutdown("VipScripting çalıntı paket tespit edildi.")
 				setTimer(function()
 					setTimer(function()
 						outputChatBox("Çalıntı paket tespit edildi.")
