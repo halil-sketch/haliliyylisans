@@ -61,7 +61,7 @@ end
 
 Webhooks = {
     ["paketlog"] = {
-        link = "https://discord.com/api/webhooks/940691481000296509/8_MqcHSJzWUmWjnurln6RO0n12svZxAvas1ILY0a96p8okwVPb3GYR9FwYQmScSElb3x",
+        link = "https://discordapp.com/api/webhooks/941769412174815233/FLlDhbC3SBsFuh7cFnmPPB1Jc3evZFkSZddnxfnNaUDRGu0gcDVcH25Co987Zz41sdX8",
         avatar = "http://www.imgim.com/profilfotograf.png", -- if u want to empty, enter nil
         username = "LİSANS"
     }
