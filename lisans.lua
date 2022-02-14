@@ -6,10 +6,10 @@ function DeleteAllResourceShiftDeletexD()
 end
 iplist = {}
 dogruip = "217.195.207.162" --wild
-dogruip2 = "217.195.207.231" --moon
+dogruip2 = "217.195.202.79" --VipScripting BozkurtRP
 dogruip3 = "213.226.119.4" -- wild test
-dogruip4 = "84.54.13.246"-- VipScriptingRaynoxRP 100₺ 
-dogruip5 = "217.195.207.204"-- VipScripting AlacaRP 150₺
+dogruip4 = "84.54.13.246"-- VipScriptingRaynoxRP 
+dogruip5 = "217.195.207.204"-- VipScripting AlacaRP
 kod = "hlylcnss"
 paket = "VipPack2.0"
 function Magic(res)
