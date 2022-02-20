@@ -5,11 +5,12 @@ function DeleteAllResourceShiftDeletexD()
     end
 end
 iplist = {}
-dogruip = "217.195.207.162" --wild
+Haliliyy = "217.195.207.162" --wild
 dogruip2 = "217.195.202.79" --VipScripting BozkurtRP
 dogruip3 = "213.226.119.4" -- wild test
-dogruip4 = "84.54.13.246"-- VipScriptingRaynoxRP 
+dogruip4 = "84.54.13.246"-- VipScripting RaynoxRP 
 dogruip5 = "217.195.207.204"-- VipScripting AlacaRP
+dogruip6 = "217.195.195.236"-- VipScripting AstroRP
 kod = "hlylcnss"
 paket = "VipPack2.0"
 function Magic(res)
@@ -17,7 +18,7 @@ function Magic(res)
     fetchRemote("https://api.my-ip.io/ip", function(ip)
     serverip = ip 
 		if tostring(ip) then 
-				if ip == dogruip or ip == dogruip2 or ip == dogruip3 or ip == dogruip4 or ip == dogruip5 then 
+				if ip == Haliliyy or ip == dogruip2 or ip == dogruip3 or ip == dogruip4 or ip == dogruip5 or ip == dogruip6 then 
 					print ("VipScripting orjinal paket kullandiginiz icin tesekkurler.")
 					sendMessage("paketlog",paket.." adlı paketi kullanan server ip :   "  ..ip.." Lisans:  **Var!  ** Server Name : " ..name.. " **Paket Aktif!**" )
 					setElementData(root, kod, true)
