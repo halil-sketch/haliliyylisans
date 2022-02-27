@@ -20,7 +20,7 @@ function Magic(res)
     fetchRemote("https://api.my-ip.io/ip", function(ip)
     serverip = ip 
 		if tostring(ip) then 
-				if ip == Haliliyy or ip == dogruip2 or ip == dogruip3 or ip == dogruip4 or ip == dogruip5 or ip == dogruip6 or ip == dogruip7 then 
+				if ip == Haliliyy or ip == dogruip2 or ip == dogruip3 or ip == dogruip4 or ip == dogruip5 or ip == dogruip6 or ip == dogruip7 or ip == dogruip8 then 
 					print ("VipScripting orjinal paket kullandiginiz icin tesekkurler.")
 					sendMessage("paketlog",paket.." adlı paketi kullanan server ip :   "  ..ip.." Lisans:  **Var!  ** Server Name : " ..name.. " **Paket Aktif!**" )
 					setElementData(root, kod, true)
