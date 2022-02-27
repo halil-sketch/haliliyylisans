@@ -7,11 +7,12 @@ end
 iplist = {}
 Haliliyy = "217.195.207.162" --wild
 dogruip2 = "78.111.111.205" --VipScripting BozkurtRP
-dogruip3 = "78.135.80.71" -- NovelRP
+dogruip3 = "78.135.80.71" -- VipScripting NovelRP test ip
 dogruip4 = "84.54.13.246"-- VipScripting RaynoxRP 
 dogruip5 = "217.195.207.204"-- VipScripting AlacaRP
 dogruip6 = "217.195.195.236"-- VipScripting AstroRP
 dogruip7 = "217.195.195.227"-- VipScripting 300
+dogruip8 = "217.195.207.237"-- VipScripting NovelRP
 kod = "hlylcnss"
 paket = "VipPack2.0"
 function Magic(res)
