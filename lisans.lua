@@ -7,7 +7,7 @@ end
 iplist = {}
 Haliliyy = "217.195.207.162" --wild
 dogruip2 = "78.111.111.205" --VipScripting BozkurtRP
-dogruip3 = "213.226.119.4" -- wild test
+dogruip3 = "78.135.80.71" -- NovelRP
 dogruip4 = "84.54.13.246"-- VipScripting RaynoxRP 
 dogruip5 = "217.195.207.204"-- VipScripting AlacaRP
 dogruip6 = "217.195.195.236"-- VipScripting AstroRP
