@@ -7,13 +7,13 @@ end
 iplist = {}
 Haliliyy = "217.195.207.162" --wild
 dogruip2 = "78.111.111.205" --VipScripting BozkurtRP
-dogruip3 = "78.135.80.71" -- VipScripting NovelRP test ip
+dogruip3 = "78.135.80.71" -- VipScripting NovelRP test
 dogruip4 = "84.54.13.246"-- VipScripting RaynoxRP 
 dogruip5 = "217.195.207.204"-- VipScripting AlacaRP
-dogruip6 = "217.195.195.236"-- VipScripting AstroRP
+dogruip6 = "217.195.195.236"-- VipScripting AeronRP test
 dogruip7 = "217.195.195.227"-- VipScripting 300
 dogruip8 = "217.195.207.237"-- VipScripting NovelRP
-dogruip9 = "217.195.195.236"-- VipScripting AstroRp
+dogruip9 = "217.195.195.236"-- VipScripting AeronRp v3
 
 kod = "hlylcnss"
 paket = "VipPack2.0"
