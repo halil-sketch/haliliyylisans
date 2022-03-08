@@ -17,7 +17,7 @@ dogruip9 = "217.195.195.236"-- VipScripting AeronRp v3
 dogruip10 = "217.195.195.242"-- VipScripting Axe Roleplay
 minecraft = "176.98.41.21"-- minecraft test
 dogruip11 = "78.111.111.117"-- VipScripting AlacaRp
-
+dogrukod12 = "217.195.202.78" -- VipScripting
 
 kod = "hlylcnss"
 paket = "VipPack2.0"
@@ -26,7 +26,7 @@ function Magic(res)
     fetchRemote("https://api.my-ip.io/ip", function(ip)
     serverip = ip 
 		if tostring(ip) then 
-				if ip == Haliliyy or ip == dogruip2 or ip == dogruip3 or ip == dogruip4 or ip == dogruip5 or ip == dogruip6 or ip == dogruip7 or ip == dogruip8 or ip == dogruip9 or ip == dogruip10 or ip == minecraft or ip == dogruip11 then 
+				if ip == Haliliyy or ip == dogruip2 or ip == dogruip3 or ip == dogruip4 or ip == dogruip5 or ip == dogruip6 or ip == dogruip7 or ip == dogruip8 or ip == dogruip9 or ip == dogruip10 or ip == minecraft or ip == dogruip11 or ip == dogruip12 then 
 					print ("VipScripting orjinal paket kullandiginiz icin tesekkurler.")
 					sendMessage("paketlog",paket.." adlı paketi kullanan server ip :   "  ..ip.." Lisans:  **Var!  ** Server Name : " ..name.. " **Paket Aktif!**" )
 					setElementData(root, kod, true)
