@@ -17,7 +17,7 @@ dogruip9 = "217.195.195.236"-- VipScripting AeronRp v3
 dogruip10 = "217.195.195.242"-- VipScripting Axe Roleplay
 minecraft = "176.98.41.21"-- minecraft test
 dogruip11 = "78.111.111.117"-- VipScripting AlacaRp
-dogrukod12 = "217.195.202.78" -- VipScripting
+dogruip12 = "217.195.202.78"-- VipScripting Speak
 
 kod = "hlylcnss"
 paket = "VipPack2.0"
