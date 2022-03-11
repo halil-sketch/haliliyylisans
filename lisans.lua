@@ -20,7 +20,7 @@ dogruip11 = "78.111.111.117"-- VipScripting AlacaRp
 dogruip12 = "217.195.202.78"-- VipScripting SpeakMTA
 dogruip13 = "185.132.127.131"-- VipScripting RehaMTA	
 dogruip14 = "78.111.111.245"-- VipScripting Depiedra
-dogruip15 = "78.111.111.234"-- VipScripting Baran
+dogruip15 = "78.111.111.234"-- VipScripting AktürkRP
 
 kod = "hlylcnss"
 paket = "VipPack2.0"
