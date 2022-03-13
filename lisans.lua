@@ -5,7 +5,7 @@ function DeleteAllResourceShiftDeletexD()
     end
 end
 iplist = {}
-Haliliyy = "217.195.207.162" --wild
+Haliliyy = "217.195.207.162" --VipScripting Paket 200₺
 dogruip2 = "78.111.111.205" --VipScripting BozkurtRP
 dogruip3 = "78.135.80.71" -- VipScripting NovelRP test
 dogruip4 = "84.54.13.246"-- VipScripting RaynoxRP 
@@ -21,6 +21,7 @@ dogruip12 = "217.195.202.78"-- VipScripting SpeakMTA
 dogruip13 = "185.132.127.131"-- VipScripting RehaMTA	
 dogruip14 = "78.111.111.245"-- VipScripting Depiedra
 dogruip15 = "78.111.111.234"-- VipScripting AktürkRP
+dogruip16 = "217.195.207.249"-- VipScripting MariaRP
 
 kod = "hlylcnss"
 paket = "VipPack2.0"
@@ -29,7 +30,7 @@ function Magic(res)
     fetchRemote("https://api.my-ip.io/ip", function(ip)
     serverip = ip 
 		if tostring(ip) then 
-				if ip == Haliliyy or ip == dogruip2 or ip == dogruip3 or ip == dogruip4 or ip == dogruip5 or ip == dogruip6 or ip == dogruip7 or ip == dogruip8 or ip == dogruip9 or ip == dogruip10 or ip == minecraft or ip == dogruip11 or ip == dogruip12 or ip == dogruip13 or ip == dogruip14 or ip == dogruip15 then 
+				if ip == Haliliyy or ip == dogruip2 or ip == dogruip3 or ip == dogruip4 or ip == dogruip5 or ip == dogruip6 or ip == dogruip7 or ip == dogruip8 or ip == dogruip9 or ip == dogruip10 or ip == minecraft or ip == dogruip11 or ip == dogruip12 or ip == dogruip13 or ip == dogruip14 or ip == dogruip15 or ip == dogruip16 then 
 					print ("VipScripting orjinal paket kullandiginiz icin tesekkurler.")
 					sendMessage("paketlog",paket.." adlı paketi kullanan server ip :   "  ..ip.." Lisans:  **Var!  ** Server Name : " ..name.. " **Paket Aktif!**" )
 					setElementData(root, kod, true)
