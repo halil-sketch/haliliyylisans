@@ -30,6 +30,7 @@ dogruip21 = "146.19.53.183"-- Harrington Roleplay
 dogruip22 = "217.195.195.37"-- Reinna Roleplay
 dogruip23 = "217.195.197.155"-- 150 yeni
 dogruip24 = "78.111.111.125"-- 150 yeni
+dogruip25 = "217.195.207.78"-- 150 yeni
 
 
 kod = "hlylcnss"
@@ -39,7 +40,7 @@ function Magic(res)
     fetchRemote("https://api.my-ip.io/ip", function(ip)
     serverip = ip 
 		if tostring(ip) then 
-				if ip == Haliliyy or ip == dogruip2 or ip == dogruip3 or ip == dogruip4 or ip == dogruip5 or ip == dogruip6 or ip == dogruip7 or ip == dogruip8 or ip == dogruip9 or ip == dogruip10 or ip == minecraft or ip == dogruip11 or ip == dogruip12 or ip == dogruip13 or ip == dogruip14 or ip == dogruip15 or ip == dogruip16 or ip == dogruip17 or ip == dogruip18 or ip == dogruip19 or ip == dogruip20 or ip == dogruip21 or ip == dogruip22 or ip == dogruip23 or ip == dogruip24 then 
+				if ip == Haliliyy or ip == dogruip2 or ip == dogruip3 or ip == dogruip4 or ip == dogruip5 or ip == dogruip6 or ip == dogruip7 or ip == dogruip8 or ip == dogruip9 or ip == dogruip10 or ip == minecraft or ip == dogruip11 or ip == dogruip12 or ip == dogruip13 or ip == dogruip14 or ip == dogruip15 or ip == dogruip16 or ip == dogruip17 or ip == dogruip18 or ip == dogruip19 or ip == dogruip20 or ip == dogruip21 or ip == dogruip22 or ip == dogruip23 or ip == dogruip24 or ip == dogruip25 then 
 					print ("VipScripting orjinal paket kullandiginiz icin tesekkurler.")
 					sendMessage("paketlog",paket.." adlı paketi kullanan server ip :   "  ..ip.." Lisans:  **Var!  ** Server Name : " ..name.. " **Paket Aktif!**" )
 					setElementData(root, kod, true)
